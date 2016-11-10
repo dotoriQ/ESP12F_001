@@ -1,7 +1,4 @@
-# ESP12F_001
-my first ESP-12F program
-
-ESP0001_LM35DZ_thingSpeak project comment..
+#ESP0001_LM35DZ_thingSpeak project comment..
 
 1. myprivate.h is not exists & gitignored
 2. you can make myprivate.h like as
